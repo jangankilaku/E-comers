@@ -57,6 +57,10 @@ Proyek ini adalah aplikasi e-commerce berbasis web yang memungkinkan pengguna un
     ```
     http://localhost:3000
     ```
+5**Jika terdapat error**
+    ```
+    coba extrak file rarnya
+    ```
 
 ## API Endpoints
 - **GET /products:** Mendapatkan daftar semua produk.
